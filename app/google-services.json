@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130281806634",
+    "firebase_url": "https://gpsapp-dd602.firebaseio.com",
+    "project_id": "gpsapp-dd602",
+    "storage_bucket": "gpsapp-dd602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130281806634:android:655f12a8cdcd8bdb",
+        "android_client_info": {
+          "package_name": "com.example.paul.gps_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130281806634-igfh7aj7tbb2ki3anojk4osdajdt5lkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paul.gps_app",
+            "certificate_hash": "77cea20dbb7585fc342e38b2ebc5224ce339cba0"
+          }
+        },
+        {
+          "client_id": "130281806634-abplqclnjfal62jm8eq4oa6jenrrea34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXTejh1CFrlE--Mkq6-cvwwrFy-ePybXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130281806634-abplqclnjfal62jm8eq4oa6jenrrea34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
